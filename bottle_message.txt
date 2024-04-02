@@ -1,3 +1,3 @@
-#bottle_message.txt
+#bottle_message
 
-"Treasures, trinkets, gold, and all the loot awaits! :D"
+Treasures, trinkets, gold, and all the loot awaits! :D
