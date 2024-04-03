@@ -1,0 +1,1 @@
+Voyagers use star compasses for nautical navigation. Stars always travel east to west in a line. In the northern hemisphere, stars appear to rotate around the North Star. By tracking the movement of the stars, voyagers can determine their approximate location with a high level of accuracy.
